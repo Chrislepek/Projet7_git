@@ -16,3 +16,6 @@ joblib
 
 #streamlit
 streamlit
+
+#pytest
+pytest
