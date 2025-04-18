@@ -11,10 +11,20 @@ CSV_PATH = './small_data.csv'
 SCALER_PATH  = './scaler.joblib'
 MODEL_PATH = './model.joblib'
 
+# Fonctions pour charger les données, le scaler et le modèle
+def load_data():
+    return pd.read_csv(CSV_PATH)
+
+def load_scaler():
+    return joblib.load(SCALER_PATH)
+
+def load_model():
+    return joblib.load(MODEL_PATH)
+
 # Charge les données
-df = pd.read_csv(CSV_PATH)
-scaler = joblib.load(SCALER_PATH)
-model = joblib.load(MODEL_PATH)
+df = load_data()
+scaler = load_scaler()
+model = load_model()
 
 # FastAPI app
 app = FastAPI()
