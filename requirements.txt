@@ -19,3 +19,6 @@ streamlit
 
 #pytest
 pytest
+
+#httpx
+httpx
