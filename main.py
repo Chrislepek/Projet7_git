@@ -52,6 +52,7 @@ def predict(client_id: int):
 
     # Préparer les données pour la prédiction
     # Convertir les données en tableau 2D avec numpy
+   
     client_features_2d = np.array(client_features).reshape(1, -1)
     scaled_features = scaler.transform(client_features_2d)
 

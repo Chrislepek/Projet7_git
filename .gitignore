@@ -1,0 +1,6 @@
+# Ignorer le fichier model1.joblib
+model1.joblib
+
+# Ignorer les fichiers compilés Python
+__pycache__/
+*.pyc
