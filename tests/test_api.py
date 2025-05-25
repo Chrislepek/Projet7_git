@@ -2,7 +2,7 @@ import sys
 import os
 import pytest
 import pandas as pd
-import numpy as np
+import numpy as np 
 import joblib
 
 #répertoire parent au PYTHONPATH
