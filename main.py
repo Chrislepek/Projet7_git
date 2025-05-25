@@ -38,7 +38,9 @@ def load_client_info():
     try:
         if not os.path.exists(CLIENT_INFO_PATH):
             raise FileNotFoundError(f"Fichier introuvable : {CLIENT_INFO_PATH}")
-        return pd.read_csv(CLIENT_INFO_PATH, usecols=colonnes_2keep)
+        df = pd.read_csv(CLIENT_INFO_PATH, usecols=colonnes_2keep)
+        print(f"[DEBUG] Nombre de lignes chargées : {len(df)}")
+        return df
     except Exception as e:
         print(f"[ERREUR] Échec du chargement de client_info_df : {e}")
         return pd.DataFrame(columns=colonnes_2keep)
@@ -117,10 +119,12 @@ def predict(client_id: int):
 def client_info(client_id: int):
     try:
         client_info = get_client_info(client_id)
-        if client_info is None:
-            raise HTTPException(status_code=404, detail="Client not found mais ça passe")
+        if not client_info or len(client_info) == 0:
+            raise HTTPException(status_code=404, detail=f"Client {client_id} introuvable ou info vide")
         clean_client_info = replace_nan_with_none(client_info)
         return clean_client_info
+    except HTTPException as he:
+        raise he  # Laisse passer les 404 correctement
     except Exception as e:
         return {"error": str(e)}
 
