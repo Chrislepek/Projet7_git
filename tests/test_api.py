@@ -4,6 +4,17 @@ import pytest
 import pandas as pd
 import numpy as np 
 import joblib
+import os
+import logging
+import math
+import json
+import io
+import base64
+from fastapi.responses import JSONResponse, FileResponse
+import matplotlib.pyplot as plt
+import shap
+import requests
+from PIL import Image
 
 #répertoire parent au PYTHONPATH
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
