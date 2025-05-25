@@ -1,0 +1,101 @@
+SK_ID_CURR,NAME_CONTRACT_TYPE,CODE_GENDER,FLAG_OWN_CAR,FLAG_OWN_REALTY,CNT_CHILDREN,AMT_INCOME_TOTAL,AMT_CREDIT,AMT_ANNUITY,OCCUPATION_TYPE
+100286,Cash loans,M,Y,Y,1,121500.0,263686.5,17298.0,Drivers
+101011,Cash loans,F,N,Y,0,112500.0,900000.0,26316.0,not available
+109467,Cash loans,M,N,Y,1,562500.0,270000.0,25245.0,Core staff
+115438,Cash loans,F,Y,Y,0,157500.0,152820.0,16344.0,Laborers
+118458,Cash loans,M,N,Y,0,112500.0,203760.0,13617.0,Waiters/barmen staff
+119045,Cash loans,M,Y,Y,0,202500.0,111384.0,8748.0,Drivers
+127633,Cash loans,F,Y,Y,0,225000.0,679896.0,52744.5,Laborers
+129637,Cash loans,M,N,N,0,49500.0,247500.0,12037.5,not available
+130316,Cash loans,F,Y,Y,0,225000.0,1078200.0,31653.0,High skill tech staff
+133035,Cash loans,F,Y,Y,1,103500.0,526491.0,29529.0,Core staff
+134201,Cash loans,F,N,N,0,112500.0,382500.0,30217.5,Security staff
+138144,Cash loans,F,Y,Y,1,148500.0,545040.0,39627.0,High skill tech staff
+140901,Cash loans,F,N,N,0,67500.0,370107.0,15808.5,not available
+141522,Cash loans,F,N,N,1,180000.0,331632.0,32800.5,not available
+143410,Cash loans,M,Y,Y,0,180000.0,360000.0,35068.5,not available
+143577,Cash loans,M,N,Y,0,157500.0,605439.0,25780.5,Laborers
+146268,Cash loans,M,Y,Y,2,387000.0,728460.0,53140.5,Laborers
+149082,Cash loans,F,N,Y,2,67500.0,71955.0,8248.5,Cooking staff
+149698,Cash loans,F,N,N,1,81000.0,225000.0,10953.0,Sales staff
+153516,Cash loans,F,N,Y,0,141750.0,673875.0,21865.5,not available
+163838,Cash loans,F,N,Y,0,180000.0,167121.0,12015.0,Managers
+169508,Cash loans,M,Y,Y,0,360000.0,540000.0,30280.5,not available
+184860,Cash loans,F,Y,Y,0,225000.0,971280.0,54364.5,Managers
+187485,Cash loans,M,N,Y,0,225000.0,755190.0,36328.5,Sales staff
+188077,Cash loans,M,Y,Y,0,180000.0,835380.0,40320.0,Security staff
+189997,Cash loans,F,Y,Y,0,157500.0,339948.0,26437.5,Accountants
+191941,Cash loans,M,Y,Y,1,225000.0,1042560.0,40702.5,Laborers
+198356,Cash loans,M,N,N,1,135000.0,358443.0,17563.5,not available
+200322,Cash loans,M,Y,N,1,157500.0,360000.0,13842.0,Drivers
+205320,Cash loans,M,N,N,0,112500.0,180000.0,8752.5,Security staff
+209213,Cash loans,M,N,Y,0,157500.0,1019610.0,36751.5,not available
+212915,Revolving loans,F,N,Y,0,157500.0,405000.0,20250.0,Medicine staff
+213156,Cash loans,F,N,Y,0,315000.0,933030.0,33642.0,Medicine staff
+222201,Cash loans,F,N,Y,2,225000.0,942300.0,27549.0,High skill tech staff
+223667,Cash loans,F,N,N,0,202500.0,810000.0,23683.5,not available
+225361,Cash loans,F,Y,N,2,72000.0,562500.0,17185.5,Security staff
+234040,Revolving loans,F,N,Y,0,135000.0,180000.0,9000.0,Sales staff
+234224,Revolving loans,M,Y,Y,1,180000.0,270000.0,13500.0,Security staff
+235351,Cash loans,F,N,N,0,90000.0,1724220.0,47412.0,not available
+236810,Cash loans,F,N,Y,0,171000.0,125136.0,7114.5,not available
+237558,Cash loans,F,N,Y,1,202500.0,1019610.0,33826.5,Accountants
+242055,Cash loans,M,N,Y,0,135000.0,728847.0,26307.0,Laborers
+244153,Cash loans,F,Y,Y,0,135000.0,237024.0,10570.5,High skill tech staff
+247094,Cash loans,M,Y,Y,0,180000.0,343800.0,16155.0,Low-skill Laborers
+250496,Cash loans,F,N,Y,1,360000.0,1078200.0,31653.0,Private service staff
+251551,Cash loans,M,Y,Y,0,360000.0,1971072.0,59890.5,Core staff
+261422,Cash loans,F,N,Y,0,144000.0,341446.5,15916.5,Cooking staff
+267256,Cash loans,M,Y,N,0,180000.0,1129500.0,33025.5,Laborers
+272323,Cash loans,M,Y,N,0,202500.0,1080000.0,57672.0,Managers
+274844,Revolving loans,F,N,Y,0,90000.0,135000.0,6750.0,not available
+280287,Cash loans,M,N,N,1,202500.0,640080.0,29970.0,Laborers
+290979,Revolving loans,M,N,N,0,112500.0,180000.0,9000.0,not available
+293167,Cash loans,F,N,Y,0,202500.0,715500.0,21051.0,Laborers
+299614,Cash loans,F,Y,N,1,144000.0,971280.0,50292.0,Laborers
+305295,Cash loans,M,N,N,0,180000.0,1971072.0,68512.5,Laborers
+310536,Cash loans,F,N,N,2,90000.0,227520.0,13189.5,Laborers
+314330,Cash loans,F,N,Y,0,112500.0,239850.0,23494.5,not available
+315406,Cash loans,F,N,Y,0,135000.0,566055.0,22063.5,Drivers
+316166,Cash loans,F,N,Y,0,54000.0,225000.0,21919.5,not available
+316396,Cash loans,F,N,Y,0,225000.0,916470.0,26928.0,Sales staff
+318854,Cash loans,F,N,Y,0,202500.0,728460.0,44694.0,not available
+319388,Revolving loans,F,N,Y,0,315000.0,180000.0,9000.0,Sales staff
+321079,Cash loans,M,Y,Y,2,135000.0,584766.0,24903.0,Drivers
+321620,Cash loans,F,N,N,0,67500.0,490536.0,15003.0,not available
+323806,Cash loans,F,N,Y,0,112500.0,523152.0,37336.5,not available
+324606,Cash loans,M,N,Y,0,180000.0,891072.0,45625.5,not available
+324619,Cash loans,F,N,Y,0,202500.0,1288350.0,37800.0,Medicine staff
+327632,Revolving loans,F,N,Y,0,360000.0,630000.0,31500.0,not available
+331396,Cash loans,F,N,Y,0,180000.0,1350000.0,68580.0,not available
+333032,Revolving loans,F,N,Y,0,74250.0,225000.0,11250.0,not available
+334258,Cash loans,M,N,Y,1,135000.0,675000.0,34596.0,Laborers
+341225,Cash loans,M,N,N,0,157500.0,733315.5,40945.5,Managers
+345134,Cash loans,M,Y,N,0,225000.0,454500.0,19255.5,Sales staff
+345331,Cash loans,M,Y,Y,1,270000.0,675000.0,26284.5,not available
+352606,Cash loans,F,N,N,0,112500.0,454500.0,25506.0,Sales staff
+354669,Cash loans,F,N,Y,0,675000.0,1305000.0,55291.5,Managers
+355064,Cash loans,F,N,Y,0,90000.0,314100.0,15241.5,not available
+360927,Cash loans,F,N,Y,1,202500.0,1350189.0,39609.0,Sales staff
+362560,Cash loans,F,N,Y,0,225000.0,973710.0,28597.5,Managers
+362773,Cash loans,F,Y,Y,1,495000.0,1574532.0,60102.0,High skill tech staff
+364832,Revolving loans,F,Y,Y,0,112500.0,337500.0,16875.0,Core staff
+365516,Cash loans,M,Y,Y,0,90000.0,161730.0,13095.0,Drivers
+368999,Revolving loans,F,N,Y,0,157500.0,450000.0,22500.0,not available
+378855,Revolving loans,M,Y,Y,0,112500.0,135000.0,6750.0,High skill tech staff
+379146,Cash loans,F,Y,Y,0,112500.0,585000.0,24786.0,Sales staff
+386206,Cash loans,M,N,Y,0,315000.0,594081.0,30460.5,Laborers
+391796,Cash loans,F,N,Y,1,81000.0,177903.0,12649.5,Sales staff
+401802,Cash loans,M,N,N,0,270000.0,675000.0,21906.0,not available
+405722,Cash loans,F,N,Y,0,180000.0,669600.0,26685.0,not available
+414014,Cash loans,M,Y,N,0,225000.0,1886850.0,49905.0,High skill tech staff
+416548,Cash loans,F,N,Y,1,157500.0,500566.5,37557.0,Medicine staff
+417590,Cash loans,F,Y,Y,0,189000.0,1350000.0,39604.5,Core staff
+418298,Cash loans,M,Y,Y,0,180000.0,808650.0,29839.5,Drivers
+423442,Cash loans,M,Y,N,0,135000.0,171000.0,8446.5,Drivers
+428890,Cash loans,F,Y,Y,1,117000.0,219069.0,10669.5,not available
+433688,Cash loans,M,Y,N,2,225000.0,997335.0,32301.0,Laborers
+443468,Cash loans,M,Y,Y,0,135000.0,225000.0,12334.5,Laborers
+448321,Cash loans,F,N,Y,0,180000.0,254700.0,27558.0,Accountants
+454016,Cash loans,M,Y,Y,2,315000.0,379237.5,23044.5,Laborers
+454894,Cash loans,M,N,N,0,135000.0,474183.0,34636.5,Laborers
